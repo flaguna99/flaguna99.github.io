@@ -1,5 +1,5 @@
 function gestionarFicheroXML(xmlDoc){
-alert(xmlDoc)
+alert (xmlDoc)
 	
 }
 
