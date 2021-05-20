@@ -1,6 +1,5 @@
 function gestionarFicheroXML(xmlDoc){
 alert(xmlDoc)
 }
-
-	loadDocA("libros.xml","xml");
+loadDocA("libros.xml","xml");
 
